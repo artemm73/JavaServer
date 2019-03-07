@@ -12,8 +12,8 @@ import javax.mail.PasswordAuthentication;
 public class MailServer {
 
     private String smtpHostServer = "smtp.yandex.ru";
-    private String emailID = "kosticovproject@yandex.ru";
-    private String password = "74999508";
+    private String emailID = "";
+    private String password = "";
     private  Session session;
 
 
